@@ -1,5 +1,5 @@
 {
-  "framework": "vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist/client"
+  "name": "hospital",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2024-01-01"
 }
